@@ -7,3 +7,5 @@ if answer == 'no':
 	print "That's awkward."
 elif answer == 'yes':
 	print "Congratulations! You're a networking expert!"
+elif answer == "hello?":
+	print "I see that you are in management. Go fire some CCIEs or something."
