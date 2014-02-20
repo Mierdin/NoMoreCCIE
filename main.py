@@ -9,3 +9,5 @@ elif answer == 'yes':
 	print "Congratulations! You're a networking expert!"
 elif answer == "hello?":
 	print "I see that you are in management. Go fire some CCIEs or something."
+elif answer == "huh":	
+	print "What's a goooey ?"
