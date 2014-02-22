@@ -1,7 +1,7 @@
 #Copyright (C) 2013 Matt Oswalt (http://keepingitclassless.net/) 
 #Obviously humorous and meant to be taken as such.
 
-#Test Comment
+#Better Comment
 
 class CCIE:
     '''A class to describe a CCIE-certified engineer'''
